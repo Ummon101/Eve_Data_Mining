@@ -1,0 +1,30 @@
+{
+  "guerre_futur_alliance": {
+    "id_alliance_attaquante": null,
+    "id_alliance_defensive": null,
+    "casuality": {
+      "isk_perdu_att": 0.0,
+      "vaisseau_perdu_att": 0,
+      "isk_perdu_def": 0.0,
+      "vaisseau_perdu_def": 0
+    },
+    "mouvement": {
+      "territoire_conquis": null,
+      "chemin_attaque": {}
+    }
+  },
+  "guerre_futur_corporation": {
+    "id_corporation_attaquante": null,
+    "id_corporation_defensive": null,
+    "casuality": {
+      "isk_perdu_att": 0.0,
+      "vaisseau_perdu_att": 0,
+      "isk_perdu_def": 0.0,
+      "vaisseau_perdu_def": 0
+    },
+    "mouvement": {
+      "territoire_conquis": null,
+      "chemin_attaque": {}
+    }
+  }
+}
